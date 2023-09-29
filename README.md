@@ -1,6 +1,6 @@
 # Eigenvalue Visualizer
 
-Short [Jupyter Notebook](eigenvalues_visualizer.ipynb) to visualize the Eigenvalues of special square matrices
+Short [Jupyter Notebook](eigenvalue_visualizer.ipynb) to visualize the Eigenvalues of special square matrices
 
 Takes a random `N x N` matrix with two variable elements chosen at random.
 
