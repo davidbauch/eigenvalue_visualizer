@@ -1,10 +1,10 @@
 # Eigenvalue Visualizer
 
-Short [Jupyter Notebook](eigenvalues_visualizer.ipynb) to visualize the Eigenvalues of special square matrices
+Short [Jupyter Notebook](eigenvalue_visualizer.ipynb) to visualize the Eigenvalues of special square matrices
 
-Takes a random `N x N` matrix with two variable elements chosen at random.
+Takes a complex `N x N` matrix with two randomly chosen variable elements.
 
-Calculates the Eigenvalue of this matrix varying the two variable elements.
+Calculates the Eigenvalues of this matrix varying the two variable elements.
 
 Plots the resulting Eigenvalues.
 
